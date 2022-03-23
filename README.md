@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# Quiz-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How it Looks
 
-## Available Scripts
+### Starting Page
+![Screenshot (47)](https://user-images.githubusercontent.com/87941703/159727731-1e96eeba-a3cd-45b0-a21b-b0bd213167c2.png)
 
-In the project directory, you can run:
+### Questions Page
+![Screenshot (48)](https://user-images.githubusercontent.com/87941703/159727910-61081357-540f-47e3-87b8-c08c82ea8413.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/87941703/159727967-020b2930-c08e-42d1-9956-3129760223b0.png)
 
-### `npm start`
+### End Page
+![Screenshot (50)](https://user-images.githubusercontent.com/87941703/159728031-c8f89ba6-769e-478f-959b-1d0757045643.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Scores Page
+![Screenshot (51)](https://user-images.githubusercontent.com/87941703/159728094-bf123958-50cd-40e5-b76f-11ed6d1934dd.png)
+ 
+### Responsiveness
+![Screenshot (66)](https://user-images.githubusercontent.com/87941703/159728172-ed9b056a-3c6e-4b0c-9135-a8df7527caf9.png)
